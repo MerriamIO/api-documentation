@@ -7,12 +7,12 @@ This repository holds the content of Merriam.IO APIs access libraries
 
 It has following client libraries with its tremendous features at a General Availability(#versioning) (GA) quality level:
 
-* [Node](https://github.io/MerriamIO/merriam-node) (GA)
-* [Angular2](https://github.io/MerriamIO/merriam-angular2) (GA)
-* [Python](https://github.io/MerriamIO/merriam-node) (GA)
-* [PHP](https://github.io/MerriamIO/merriam-php) (GA)
-* [Java](https://github.io/MerriamIO/merriam-java) (GA)
-* [Ruby](https://github.io/MerriamIO/merriam-node) (GA)
+* [Node](https://github.com/MerriamIO/merriam-node) (GA)
+* [Angular2](https://github.com/MerriamIO/merriam-angular2) (GA)
+* [Python](https://github.com/MerriamIO/merriam-node) (GA)
+* [PHP](https://github.com/MerriamIO/merriam-php) (GA)
+* [Java](https://github.com/MerriamIO/merriam-java) (GA)
+* [Ruby](https://github.com/MerriamIO/merriam-node) (GA)
 
 # api-documentation
 
